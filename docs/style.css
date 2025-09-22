@@ -1,8 +1,6 @@
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
 body {
-  background-color: #000;
+  background-color: #BCAFCF;
   margin: 0;
   padding: 0;
   height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
@@ -25,15 +23,13 @@ body {
   /* Agrega una animación de pulsación */
   animation: pulsate 2s infinite;
 }
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
 .text-above,
 .text-below {
     position: absolute;
     text-align: center;
     color: #fff; /* Color del texto */
-    font-size: 25px; /* Tamaño del texto */
+    font-size: 20px; /* Tamaño del texto */
 }
 
 .text-above {
@@ -67,9 +63,7 @@ body {
   
     filter: drop-shadow(0 0 8px #682600);
   }
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
   .Petal1 {
     position: absolute;
     left: 40px;
@@ -138,9 +132,7 @@ body {
   
     filter: drop-shadow(0 0 2px #fbd702);
   }
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
   .Petal3.p1 {
     transform: rotate(22.5deg);
   }
@@ -153,7 +145,5 @@ body {
   .Petal3.p4 {
     transform: rotate(157.5deg);
   }
-/*Síguenos en todas las redes como:*/
-/*Faster Academy*/
-/*Código: Daniel Arteaga de Faster Academy*/
+
 
